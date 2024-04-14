@@ -47,3 +47,7 @@ const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
 <p>Unlike HTML, there are some important naming differences with JSX. One of the most widely used attributes in HTML is class. However, the JSX-equivalent to this is className. In JavaScript, "class" is actually a reserved keyword. Therefore, we use className! </p>
 
 <p>  In React, "attributes" are more commonly known as props. Props are pieces of data that are given to JSX elements for them to use or pass from parent to child component. You can use any data type for props, including objects and functions! </p>
+
+## Parents and Children
+
+<p> No matter how many components are in a React app, they all trace back to a single root. React apps are like upside down trees with a root element at the top. Underneath, the root contains an <"App"> component, which also contains components. These components share a parent-child relationship. Parent components hold one or more child components In a React app, we can pass prop data down from parent to child component. </p>
