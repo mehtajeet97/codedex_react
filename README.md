@@ -27,6 +27,15 @@ Some of React's most useful features include:
 
 <p> If JSX is like the "language" of React, then components are like the "building blocks" of the website's user interface. Components are defined like functions that return JSX content. <p>
 
+<p>Components are pieces of JSX that make up most of the website. They can be anything from labels to buttons to navigation menus.</p>
+
+A few things to consider:
+
+<ul>
+<li>The name of the component must begin with a capital letter, and be in "PascalCase".</li>
+<li>The JSX returned by a component is bundled under a single element and rendered as a single part, or component, of a website.</li>
+</ul>
+
 ## Attributes
 
 <p> Just like with HTML, JSX supports attributes for applying cool settings to your content. Any valid HTML and their associated attributes are supported in JSX…mostly. For example: img tag with common attributes src and alt</p>
