@@ -1,4 +1,6 @@
-### About REACT
+## About REACT
+
+=================
 
 <p>In 2013, a JavaScript library was introduced to the world and changed the course of web dev forever.</p>
 
