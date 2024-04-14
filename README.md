@@ -20,3 +20,7 @@ Some of React's most useful features include:
 ## React Syntax
 
 <p> JSX is like "syntactic sugar" because it looks like HTML, but it's actually JavaScript! We can define JSX either in a .js file or a .jsx file. For this course, we're using .js files! When you run your code, JSX gets transpiled, or translated into plain JavaScript and then read by the browser.</p>
+
+## Building Blocks
+
+<p> If JSX is like the "language" of React, then components are like the "building blocks" of the website's user interface. Components are defined like functions that return JSX content. <p>
