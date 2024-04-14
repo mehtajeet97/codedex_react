@@ -51,3 +51,7 @@ const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
 ## Parents and Children
 
 <p> No matter how many components are in a React app, they all trace back to a single root. React apps are like upside down trees with a root element at the top. Underneath, the root contains an <"App"> component, which also contains components. These components share a parent-child relationship. Parent components hold one or more child components In a React app, we can pass prop data down from parent to child component. </p>
+
+## State
+
+<p> For React components, props are ideal if the data isn't expected to change after being set. But what if our component is using data that might change? A component's state is the data that can change over time. </p>
