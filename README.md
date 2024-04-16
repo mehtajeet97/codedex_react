@@ -38,7 +38,7 @@ A few things to consider:
 
 ## Attributes
 
-<p> Just like with HTML, JSX supports attributes for applying cool settings to your content. Any valid HTML and their associated attributes are supported in JSX…mostly. For example: img tag with common attributes src and alt</p>
+<p> Just like with HTML, JSX supports attributes for applying cool settings to your content. Any valid HTML and their associated attributes are supported in JSX mostly. For example: img tag with common attributes src and alt</p>
 
 ```
 const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
