@@ -57,3 +57,5 @@ const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
 <p> For React components, props are ideal if the data isn't expected to change after being set. But what if our component is using data that might change? A component's state is the data that can change over time. </p>
 
 ## Next Topic
+
+Lipsum
