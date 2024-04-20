@@ -57,3 +57,7 @@ const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
 <p> For React components, props are ideal if the data isn't expected to change after being set. But what if our component is using data that might change? A component's state is the data that can change over time. </p>
 
 <p>In addition to non-state values, a component's state can be passed as props to its child components.</p>
+
+# Events
+
+<p>Events are actions that occur while you are on a website. You can write code that "listens" for these events and causes a reaction! These are called event handlers</p>
