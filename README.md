@@ -61,3 +61,5 @@ const selfie = <img src="username/camera/recents/today.png" alt="a selfie" />
 # Events
 
 <p>Events are actions that occur while you are on a website. You can write code that "listens" for these events and causes a reaction! These are called event handlers</p>
+
+<p>In the world of web dev, there are lots of different types of events. For exam-ple, When the page first loads on the browser, that's an event. When you write a comment on a thread, that's an event. </p>
