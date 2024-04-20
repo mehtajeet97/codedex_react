@@ -72,6 +72,8 @@ Some examples of events are :
 <li>OnMouseLeave</li>
 <li>OnFocus</li>
 <li>OnBlur</li>
+<li>onKeyDown</li>
+<li>onKeyUp</li>
 </ul>
 
 <p>When an event happens, a e event object is created. Within its target property, we can access parts of the element through the event. You have to explicitly mention e as a parameter when defining a handler function.</p>
