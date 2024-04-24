@@ -78,4 +78,4 @@ Some examples of events are :
 
 <p>When an event happens, a e event object is created. Within its target property, we can access parts of the element through the event. You have to explicitly mention e as a parameter when defining a handler function.</p>
 
-# Typig for stressfree
+# Typing spelled incorrectly
